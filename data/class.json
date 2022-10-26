@@ -5,6 +5,7 @@
     "img": "https://images.velog.io/images/dhlee91/post/f2418376-eacc-40cb-b7c8-73473580da3e/html_.png",
     "description": "HTML stands for hyper text markup language  it is used to display web pages on the browser. In order to create web pages, one should learn HTML. As its name suggests, HTML is a markup language, not a programming language. This means that we do not write programs using HTML; instead, markup language is mainly used to apply layout and formatting conventions to a text document. In other words, markup language makes text more interactive and dynamic.",
     "rating": 4.5,
+    "tutor": "Daniel",
     "price": "399$"
   },
   {
@@ -13,6 +14,7 @@
     "img": "https://freecoursesites.org/wp-content/uploads/2019/12/CSS-The-Complete-Guide-2020-incl.-Flexbox-Grid-Sass-Course-Site.jpg",
     "description": "Cascading Style Sheets, fondly referred to as CSS, is a simple design language intended to simplify the process of making web pages presentable.CSS handles the look and feel part of a web page. Using CSS, you can control the color of the text, the style of fonts, the spacing between paragraphs, how columns are sized and laid out, what background images or colors are used, layout designs,variations in display for different devices and screen sizes as well as a variety of other effects.CSS is easy to learn and understand but it provides powerful control over the presentation of an HTML document. Most commonly, CSS is combined with the markup languages HTML or XHTML.",
     "rating": 4.2,
+    "tutor": "Albert",
     "price": "590$"
 
 
@@ -23,6 +25,7 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYw7xQkWoI-013jqMmh1BqRMeT2W0uuMMPvah9U-QqIg0YP_SvzjSx_ewymPeCTwfc6B0&usqp=CAU",
     "description": "Bootstrap is a free, open source front-end development framework for the creation of websites and web apps. Designed to enable responsive development of mobile-first websites, Bootstrap provides a collection of syntax for template designs.As a framework, Bootstrap includes the basics for responsive web development, so developers only need to insert the code into a pre-defined grid system. The Bootstrap framework is built on Hypertext Markup Language (HTML), cascading style sheets (CSS) and JavaScript. Web developers using Bootstrap can build websites much faster without spending time worrying about basic commands and functions.",
     "rating": 4.5,
+    "tutor": "Eliza",
     "price": "650$"
   },
   {
@@ -31,6 +34,7 @@
     "img": "https://itproger.com/img/courses/1476977754.jpg",
     "description":"JavaScript is a dynamic programming language developers use to create interactive web applications using HTML and CSS. Many browsers use the programing language to perform dynamic functions on websites. Anytime you're using a website and have to use a drop-down menu or change color on a page, you're using the end product of JavaScript. As it stands, without JavaScript, websites would use HTML and CSS as the primary development tools. The limitations may render websites static, with no graphics.",
     "rating": 4.4,
+    "tutor": "James",
     "price": "550$"
   },
   {
@@ -39,6 +43,7 @@
     "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--deySAlhm--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/jh1ajwidntpxi8tj4s58.png",
     "description": "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library[3] for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.[4][5][6] React can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js. However, React is only concerned with state management and rendering that state to the DOM, so creating React applications usually requires the use of additional libraries for routing, as well as certain client-side functionality.",
     "rating":4.2,
+    "tutor": "Daniel",
     "price": "499$"
   },
   {
@@ -47,6 +52,7 @@
     "img": "https://www.devteam.space/wp-content/uploads/2022/05/nodejs.jpg",
     "description": "Node.js is an open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside of a web browser. Node.js is a popular, lightweight web framework for beginners, and it is used by many big companies like Netflix and Uber.When we typically think of JavaScript, our mind tends to go to web development. Until Node.js came along, there was really no way to run JavaScript outside of a browser. When we write a backend server and database, Node.js is a popular choice because we can run our code as a standalone application rather than something that can only be evaluated in a browser environment.",
     "rating": 4.7,
+    "tutor": "Jonathon",
     "price": "450$"
   }
 ]
