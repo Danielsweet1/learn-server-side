@@ -22,5 +22,5 @@ app.get('/classes/:id', (req, res)=>{
 })
 
 app.listen(port, ()=>{
-    console.log('server is running', port)
+    console.log('server is running on :', port)
 })
