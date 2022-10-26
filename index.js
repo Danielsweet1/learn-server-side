@@ -17,8 +17,7 @@ app.get('/classes', (req, res)=>{
 
 app.get('/classes/:id', (req, res)=>{
     const id = parseInt(req.params.id)
-
-    const selected = classes.find(c=> c.id === id)
+    const selected = classes.find(c => c.id === id)
     res.send(selected)
 })
 
